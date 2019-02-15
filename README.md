@@ -1,2 +1,2 @@
 # Hello-world
-This is my hello world repository
+Here I joined gitHub the first time. I learn how to use gitHub by biginner guide.
